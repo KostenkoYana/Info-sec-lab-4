@@ -1,0 +1,43 @@
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4.deps.json
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4.runtimeconfig.json
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4.exe
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4_2.exe
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4_2.deps.json
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4_2.runtimeconfig.json
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4_2.dll
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4_2.pdb
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4.dll
+C:\Users\olege\Desktop\IS4\IS4_2\bin\Debug\net6.0\IS4.pdb
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.csproj.AssemblyReference.cache
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.AssemblyInfoInputs.cache
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.AssemblyInfo.cs
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.csproj.CoreCompileInputs.cache
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.sourcelink.json
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.csproj.Up2Date
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.dll
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\refint\IS4_2.dll
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.pdb
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\IS4_2.genruntimeconfig.cache
+C:\Users\olege\Desktop\IS4\IS4_2\obj\Debug\net6.0\ref\IS4_2.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4.deps.json
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4.runtimeconfig.json
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4.exe
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4_2.exe
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4_2.deps.json
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4_2.runtimeconfig.json
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4_2.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4_2.pdb
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\bin\Debug\net6.0\IS4.pdb
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.csproj.CopyComplete
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\refint\IS4_2.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.pdb
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\IS4_2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4_2\obj\Debug\net6.0\ref\IS4_2.dll

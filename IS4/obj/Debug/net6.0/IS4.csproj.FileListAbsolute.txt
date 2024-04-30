@@ -1,0 +1,30 @@
+C:\Users\olege\Desktop\IS4\IS4\bin\Debug\net6.0\IS4.exe
+C:\Users\olege\Desktop\IS4\IS4\bin\Debug\net6.0\IS4.deps.json
+C:\Users\olege\Desktop\IS4\IS4\bin\Debug\net6.0\IS4.runtimeconfig.json
+C:\Users\olege\Desktop\IS4\IS4\bin\Debug\net6.0\IS4.dll
+C:\Users\olege\Desktop\IS4\IS4\bin\Debug\net6.0\IS4.pdb
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.AssemblyInfoInputs.cache
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.AssemblyInfo.cs
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.csproj.CoreCompileInputs.cache
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.sourcelink.json
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.dll
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\refint\IS4.dll
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.pdb
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\IS4.genruntimeconfig.cache
+C:\Users\olege\Desktop\IS4\IS4\obj\Debug\net6.0\ref\IS4.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\bin\Debug\net6.0\IS4.exe
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\bin\Debug\net6.0\IS4.deps.json
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\bin\Debug\net6.0\IS4.runtimeconfig.json
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\bin\Debug\net6.0\IS4.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\bin\Debug\net6.0\IS4.pdb
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\refint\IS4.dll
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.pdb
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\IS4.genruntimeconfig.cache
+C:\Users\Asus\Desktop\VIKO\Information Security\lab 4\IS4\IS4\obj\Debug\net6.0\ref\IS4.dll

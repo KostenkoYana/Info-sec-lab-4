@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IS4_2/1.0.0": {
+        "dependencies": {
+          "IS4": "1.0.0"
+        },
+        "runtime": {
+          "IS4_2.dll": {}
+        }
+      },
+      "IS4/1.0.0": {
+        "runtime": {
+          "IS4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IS4_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IS4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
